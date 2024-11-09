@@ -15,3 +15,11 @@ Después existen las Clases D y E pero son experimentales y son utilizados para 
 3- los dispositivos que pueden conectarse a una red PAN(red domestica) son extensos, algunos pueden ser celulares, computadoras, impresoras, TV, etc. Ay que tener en cuenta que la conexión puede ser inalámbrica o física(mediante un cable).
 
 4- me encuentro conectado a una red wifi de nombre FTDR ALUMNOS de forma inalámbrica seguramente la red sea Clase B ya que puede soportar una gran capacidad de dispositivos y los dispositivos que se conecten no serian un numero fijo(los celulares y compus de los alumnos se conectan y desconectan todo el tiempo).
+
+5-Para la instalación de una maquina virtual se necesita un programa que pueda ejecutar un segundo sistema operativo, el instalador de un sistema operativo a tu conveniencia y en ciertas computadoras que este activado la opción de maquinas virtuales en la BIOS(es un sistema de seguridad que habilita el uso de recursos para diferentes sistemas operativos).
+
+6-los servicios que podemos utilizar en la nube paaS, es la capacidad de guardar archivos o proyectos de todo tipo para poder descargar o transportar a diferentes dispositivos, o compartirlo con otros usuarios.
+
+6- Rama: es una líneas independientes, que permiten trabajar en tareas individuales sin afectar el proyecto principal, también facilita el trabajo de forma paralela entre varias ramas.
+Repositorio: es un espacio donde se almacenan los archivos de un proyecto. 
+GitBash tiene 3 áreas de trabajo la parte de proyecto sonde se trabaja, la parte de preparación sonde los archivos se preparan para luego ser enviados a la nube y por último la nube donde los archivos del proyecto ya están guardados en la nube
