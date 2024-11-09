@@ -1,0 +1,17 @@
+Parcial arquitectura de sistemas operativos
+Alumno: Cristian Zarate.
+
+Respuestas
+1-los protocolos que interactúan en cada capa son
+a-aplicación: incluye los protocolos HTTP(wed) y FTP(transferencia de archivos)
+b-trasporte: incluye los protocolos TCP Y UDP
+
+2-las ip se dividen en 5 tipos de clases:
+Clase A: esta echa para para servidores de gran capacidad y la cantidad de bits asignados para red son 8 bit y de host 24.
+Clase B: esta echa para servidores de tamaño medio y la cantidad de bits asignados son 16 de red y 16 de host.
+Clase C: esta echa para servidores de tamaño pequeño y la cantidad de bits asignados para red son 24 bits y 8 bit de host. 
+Después existen las Clases D y E pero son experimentales y son utilizados para pruebas.
+
+3- los dispositivos que pueden conectarse a una red PAN(red domestica) son extensos, algunos pueden ser celulares, computadoras, impresoras, TV, etc. Ay que tener en cuenta que la conexión puede ser inalámbrica o física(mediante un cable).
+
+4- me encuentro conectado a una red wifi de nombre FTDR ALUMNOS de forma inalámbrica seguramente la red sea Clase B ya que puede soportar una gran capacidad de dispositivos y los dispositivos que se conecten no serian un numero fijo(los celulares y compus de los alumnos se conectan y desconectan todo el tiempo).
